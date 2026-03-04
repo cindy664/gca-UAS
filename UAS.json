@@ -1,4 +1,119 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "University of Alaska Southeast",
+    "abbreviation": "UAS",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": null,
+    "primaryBrandColor": null,
+    "buttonColor": null,
+    "buttonTextColor": null,
+    "logo": null,
+    "cobranded_logo": null,
+    "partner_id": "001Rd00000coJMYIA2",
+    "programName": "UAS Global Career Accelerator",
+    "termsandConditionsPolicy": null,
+    "registrationMessage": "Registration is now open.",
+    "credits": "6 UAS credits",
+    "startDate": "May 18",
+    "endDate": "August 9"
+  },
+  {
+    "item": "about",
+    "schoolname": "University of Alaska Southeast",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": null,
+    "abbreviation": "UAS",
+    "phone": null,
+    "credits": "6 UAS credits",
+    "programFee": null,
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "6 UAS credits",
+    "abbreviation": "UAS",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "University of Alaska Southeast",
+    "trackTitle": "Digital Marketing Track",
+    "credits": "6 UAS credits",
+    "abbreviation": "UAS",
+    "registrationMessage": "Registration is now open.",
+    "courseCodes": "<b style='color:red;'>null</b>",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 12"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "University of Alaska Southeast",
+    "trackTitle": "Coding for Web Track",
+    "credits": "6 UAS credits",
+    "abbreviation": "UAS",
+    "registrationMessage": "Registration is now open.",
+    "courseCodes": "<b style='color:red;'>null</b>",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 12"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "University of Alaska Southeast",
+    "trackTitle": "Data Analytics Track",
+    "credits": "6 UAS credits",
+    "abbreviation": "UAS",
+    "registrationMessage": "Registration is now open.",
+    "courseCodes": "<b style='color:red;'>null</b>",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 12"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "University of Alaska Southeast",
+    "trackTitle": "Coding for Data Track",
+    "credits": "6 UAS credits",
+    "abbreviation": "UAS",
+    "registrationMessage": "Registration is now open.",
+    "courseCodes": "<b style='color:red;'>null</b>",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 12"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "University of Alaska Southeast",
+    "trackTitle": "Career Rotation Track",
+    "credits": "6 UAS credits",
+    "abbreviation": "UAS",
+    "registrationMessage": "Registration is now open.",
+    "courseCodes": "<b style='color:red;'>null</b>",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 12"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "UAS Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": null,
+    "abbreviation": "UAS"
+  },
+  {
+    "item": "begin",
+    "credits": "6 UAS credits",
+    "abbreviation": "UAS",
+    "phone": null
+  }
+]
